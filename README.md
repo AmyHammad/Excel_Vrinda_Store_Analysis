@@ -1,5 +1,3 @@
-# Excel_Vrinda_Store_Analysis
-
 # Project Overview:
 This project showcases a complete Excel-based sales data analysis and dashboard. It includes key insights into sales trends, customer demographics, order channels, and category performance. The dashboard is fully interactive, cleanly designed, and built using core Excel features such as:
 
@@ -30,7 +28,7 @@ Dynamic Dashboard with interactive filters for:
 - Slicers	Interactive filtering
 
 # Dashboard Preview
-<img width="1374" height="625" alt="Excel_Dashboard" src="https://github.com/user-attachments/assets/f10d0d2c-a135-4180-98a0-8177172c4b8f" />
+<img width="1314" height="654" alt="Excel_Dashboard" src="https://github.com/user-attachments/assets/d8bf8779-13a4-4759-a504-8e6d90acb3ae" />
 
 # Files Included:
 Sales_Dashboard.xlsx – The main Excel file containing the data, analysis, and dashboard
